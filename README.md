@@ -1,7 +1,6 @@
 # Maharashtra-RealEstate-Agent-Data-Extractor
 
 
-# Maharera Real Estate Agent Scraper
 
 ## Description
 This repository contains a Python script for scraping real estate agent data from the Maharera website, which is a prominent source for real estate information in Maharashtra, India. The script is designed to extract detailed information about real estate agents across different cities in Maharashtra, providing valuable data for market analysis, research, or business purposes.
